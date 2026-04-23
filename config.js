@@ -67,12 +67,12 @@ const CONFIG = {
 			id: '3',
 			name: 'Github',
 			icon: 'square-terminal',
-			link: 'https://github.com/blesseos',
+			link: 'https://github.com/avowable',
 		},
 		{
 			id: '4',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'square-play',
 			link: 'https://youtube.com',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Twitch',
-			icon: 'twitch',
+			icon: 'tv',
 			link: 'https://twitch.tv',
 		},
 	],
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'shopping-cart',
 			id: '1',
 			links: [
 				{
-					name: 'Main',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'AliExpress',
+					link: 'https://pt.aliexpress.com/',
 				},
 				{
-					name: 'Rap',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Amazon',
+					link: 'https://www.amazon.com.br/',
 				},
 				{
-					name: 'Pop',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Shopee',
+					link: 'https://shopee.com.br/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Mercado Livre',
+					link: 'https://www.mercadolivre.com.br/',
 				},
 			],
 		},
